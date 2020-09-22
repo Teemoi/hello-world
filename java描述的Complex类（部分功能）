@@ -1,5 +1,3 @@
-package JAVALEARN;
-
 
     public class Complex {
         double real, img;    //实部和虚部
